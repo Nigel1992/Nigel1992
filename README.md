@@ -29,12 +29,13 @@
 
 # ⚡ About Me
 
-```python id="03ofrk"
+```python id="t1j7q0"
 nigel = {
     "username": "Nigel1992",
     "location": "Netherlands 🇳🇱",
     "main_os": "Linux 🐧",
     "previous_main_os": "Windows 🪟",
+
     "interests": [
         "Kodi",
         "Python",
@@ -47,7 +48,9 @@ nigel = {
         "Automation",
         "Hardware"
     ],
-    "philosophy": "Build → Break → Understand → Fix → Improve → Automate → Share"
+
+    "philosophy":
+        "Build → Break → Understand → Fix → Improve → Automate → Share"
 }
 ```
 
@@ -271,7 +274,7 @@ Unofficial Kodi video add-on for the Dutch streaming service **Videoland**.
 
 Kodi is one of my biggest development interests.
 
-```text id="fv5qqe"
+```text id="lj0lvm"
 Kodi
  │
  ├── Python Add-ons
@@ -309,7 +312,7 @@ My Raspberry Pi 5 also serves as a platform for experimenting with:
 
 # 🪟 ➜ 🐧 My OS Journey
 
-```text id="g5z7p7"
+```text id="l16mhy"
           WINDOWS 🪟
               │
               │
@@ -360,7 +363,7 @@ And worked with:
 
 One of my favorite rabbit holes is getting Android applications to behave properly inside Linux.
 
-```text id="xyl3gf"
+```text id="hpkijw"
 Waydroid
  │
  ├── ADB
@@ -381,7 +384,7 @@ Waydroid
 
 Some of my most-used Android debugging tools:
 
-```bash id="vceetn"
+```bash id="qek90s"
 adb
 logcat
 dumpsys
@@ -403,7 +406,7 @@ I want to know **why**.
 
 I've experimented extensively with the **ESP32-2432S028R — Cheap Yellow Display / CYD**.
 
-```text id="jnj8cu"
+```text id="m3a17w"
 ESP32 CYD
  │
  ├── ESP32
@@ -428,7 +431,7 @@ Embedded projects are especially fun because debugging suddenly involves **both 
 
 My Raspberry Pi 5 is another platform where software and hardware experimentation come together.
 
-```text id="sgfp5y"
+```text id="0h5c1q"
 Raspberry Pi 5
       │
       ├── LibreELEC
@@ -464,7 +467,7 @@ I've also experimented with dark-mode and interface modifications.
 
 If I have to do something repeatedly, sooner or later I'm probably going to script it.
 
-```text id="hvm5lc"
+```text id="5bkd3v"
 Automation
  │
  ├── Waydroid Backups
@@ -487,7 +490,7 @@ Automation
 
 I've also experimented with Docker for running and testing services without having to install everything directly onto the host system.
 
-```text id="a2okdz"
+```text id="n2c7n2"
 Docker
  │
  ├── Containers
@@ -534,7 +537,7 @@ Linux tools + old hardware = a surprisingly fun combination.
 
 Networking is another area I frequently experiment with and troubleshoot.
 
-```text id="q4sh16"
+```text id="p83m9i"
 Networking
  │
  ├── TCP/IP
@@ -560,7 +563,7 @@ The most interesting networking problems are usually the ones where:
 
 A large part of how I learn technology comes from troubleshooting.
 
-```text id="h6lqex"
+```text id="dnl1nv"
         SOMETHING BREAKS
                │
                ▼
@@ -664,7 +667,7 @@ alt="Nigel's GitHub Streak"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Nigel1992&theme=github-compact&hide_border=true"
+src="https://github-readme-activity-graph-mu-five.vercel.app/graph?username=Nigel1992&theme=github-compact&hide_border=true"
 width="100%"
 alt="Nigel's GitHub Contribution Activity"
 />
@@ -675,7 +678,7 @@ alt="Nigel's GitHub Contribution Activity"
 
 # 🏗️ How I Like To Work
 
-```text id="ofz52p"
+```text id="w3x10v"
 IDEA
  │
  ▼
@@ -737,7 +740,7 @@ I also enjoy sharing fixes and experiments because the weird technical problem I
 
 <div align="center">
 
-```text id="pm35t7"
+```text id="lj9qhe"
         BUILD
           ↓
         BREAK
