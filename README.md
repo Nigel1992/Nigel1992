@@ -29,7 +29,7 @@
 
 # ⚡ About Me
 
-```python id="ip2t07"
+```python id="03ofrk"
 nigel = {
     "username": "Nigel1992",
     "location": "Netherlands 🇳🇱",
@@ -47,7 +47,7 @@ nigel = {
         "Automation",
         "Hardware"
     ],
-    "philosophy": "Build → Break → Understand → Fix → Improve → Share"
+    "philosophy": "Build → Break → Understand → Fix → Improve → Automate → Share"
 }
 ```
 
@@ -57,7 +57,7 @@ A few years ago I started exploring Linux more seriously. Around two years ago I
 
 Today, most of my projects and experiments revolve around **Kodi, Python, Linux, Android/Waydroid, ESP32, Raspberry Pi, IPTV, networking and automation**.
 
-I love solving the kind of problems that make you think:
+I enjoy solving the kind of problems that make you think:
 
 > ### *"Surely there has to be a way to make this work..."*
 
@@ -80,8 +80,8 @@ Usually, there is. 😎
 * EPG
 * IPTV Manager
 * IPTV Simple
-* InputStream
 * OAuth2
+* InputStream
 * Kodi repositories
 * LibreELEC
 
@@ -188,7 +188,7 @@ Usually, there is. 😎
 ![Kodi](https://img.shields.io/badge/Kodi-17B2E7?style=for-the-badge\&logo=kodi\&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge\&logo=raspberrypi\&logoColor=white)
 
-**Kodi • LibreELEC • IPTV • IPTV Manager • IPTV Simple • NextPVR • Xtream Codes • EPG • InputStream**
+**Kodi • LibreELEC • IPTV • IPTV Manager • IPTV Simple Client • NextPVR • Xtream Codes • EPG • InputStream**
 
 ### 🔌 Embedded & Hardware
 
@@ -271,7 +271,7 @@ Unofficial Kodi video add-on for the Dutch streaming service **Videoland**.
 
 Kodi is one of my biggest development interests.
 
-```text id="7i8g3w"
+```text id="fv5qqe"
 Kodi
  │
  ├── Python Add-ons
@@ -279,7 +279,7 @@ Kodi
  ├── Streaming APIs
  ├── OAuth2 Authentication
  ├── IPTV Manager
- ├── IPTV Simple
+ ├── IPTV Simple Client
  ├── EPG
  ├── PVR
  ├── InputStream
@@ -309,7 +309,7 @@ My Raspberry Pi 5 also serves as a platform for experimenting with:
 
 # 🪟 ➜ 🐧 My OS Journey
 
-```text id="k0bcxq"
+```text id="g5z7p7"
           WINDOWS 🪟
               │
               │
@@ -360,7 +360,7 @@ And worked with:
 
 One of my favorite rabbit holes is getting Android applications to behave properly inside Linux.
 
-```text id="wxw01b"
+```text id="xyl3gf"
 Waydroid
  │
  ├── ADB
@@ -381,7 +381,7 @@ Waydroid
 
 Some of my most-used Android debugging tools:
 
-```bash id="nvvsmr"
+```bash id="vceetn"
 adb
 logcat
 dumpsys
@@ -390,6 +390,8 @@ am
 getprop
 sqlite3
 ```
+
+I've spent plenty of time digging through Android internals, permissions, package state, account visibility and system databases to understand why applications behave differently inside Waydroid.
 
 If an Android app works perfectly on a phone but breaks inside Waydroid, I don't just want to know **that** it broke.
 
@@ -401,9 +403,22 @@ I want to know **why**.
 
 I've experimented extensively with the **ESP32-2432S028R — Cheap Yellow Display / CYD**.
 
-That includes:
-
-**🔌 ESP32 • 🖥️ ILI9341 • 👆 Resistive Touch • 🛰️ ATGM336H GPS • 📡 GPS Antennas • 🔗 CH340 • 💾 Flash Partitions • 📶 ESP32 Marauder • 🦇 Bruce • 🗺️ Wardriving • 🔄 Multiboot**
+```text id="jnj8cu"
+ESP32 CYD
+ │
+ ├── ESP32
+ ├── ILI9341 Display
+ ├── Resistive Touch
+ ├── ATGM336H GPS
+ ├── GPS Antennas
+ ├── CH340 Serial
+ ├── Flash / Partitions
+ ├── Firmware
+ ├── ESP32 Marauder
+ ├── Bruce
+ ├── Wardriving
+ └── Multiboot Experiments
+```
 
 Embedded projects are especially fun because debugging suddenly involves **both software and physical hardware**.
 
@@ -411,7 +426,9 @@ Embedded projects are especially fun because debugging suddenly involves **both 
 
 # 🥧 Raspberry Pi 5 + LibreELEC
 
-```text id="rqy5d3"
+My Raspberry Pi 5 is another platform where software and hardware experimentation come together.
+
+```text id="sgfp5y"
 Raspberry Pi 5
       │
       ├── LibreELEC
@@ -435,7 +452,9 @@ So I change it. 😎
 
 One of my projects is a **Vinted Country & City Filter**, adding additional client-side filtering functionality.
 
-I've worked with:
+I've also experimented with dark-mode and interface modifications.
+
+### Technologies
 
 **JavaScript • DOM Manipulation • Client-side Filtering • Userscripts • UI Tweaks • Dark Mode**
 
@@ -445,7 +464,7 @@ I've worked with:
 
 If I have to do something repeatedly, sooner or later I'm probably going to script it.
 
-```text id="7wmy66"
+```text id="hvm5lc"
 Automation
  │
  ├── Waydroid Backups
@@ -461,6 +480,23 @@ Automation
 ```
 
 > **Why do something manually ten times when you can spend an afternoon automating it? 😎**
+
+---
+
+# 🐳 Docker & Containers
+
+I've also experimented with Docker for running and testing services without having to install everything directly onto the host system.
+
+```text id="a2okdz"
+Docker
+ │
+ ├── Containers
+ ├── Services
+ ├── Media Servers
+ ├── NextPVR
+ ├── Testing Environments
+ └── Linux Integration
+```
 
 ---
 
@@ -486,7 +522,7 @@ Automation
 
 # 🎮 Retro & Homebrew Lab
 
-I've also worked with:
+I've also worked and experimented with:
 
 **🎮 PSP-3000 • 🔓 ARK Custom Firmware • 🏠 Homebrew • 💿 PS1 → PSP Conversion • 🎮 POPS • 💾 microSD Adapters • 📁 FAT32 • 💽 Large SD Cards**
 
@@ -496,7 +532,9 @@ Linux tools + old hardware = a surprisingly fun combination.
 
 # 🌐 Networking
 
-```text id="vgz1fd"
+Networking is another area I frequently experiment with and troubleshoot.
+
+```text id="q4sh16"
 Networking
  │
  ├── TCP/IP
@@ -520,7 +558,9 @@ The most interesting networking problems are usually the ones where:
 
 # 🛠️ Troubleshooting Mode
 
-```text id="t4xjei"
+A large part of how I learn technology comes from troubleshooting.
+
+```text id="h6lqex"
         SOMETHING BREAKS
                │
                ▼
@@ -558,7 +598,7 @@ Hardware I've worked and experimented with includes:
 
 AI is an important part of my development workflow.
 
-I use it for:
+I use AI tools for:
 
 **Rapid Prototyping • Debugging • Code Analysis • Research • Documentation • API Exploration • Refactoring • Edge Cases • Learning • Automation**
 
@@ -592,17 +632,23 @@ But the rule stays the same:
 
 <img
 height="180"
-src="https://github-readme-stats-merw5yblq-nigel1992s-projects.vercel.app/api?username=Nigel1992&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+src="https://github-readme-stats-nigel1992s-projects.vercel.app/api?username=Nigel1992&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
 alt="Nigel's GitHub Stats"
 />
 
 <img
 height="180"
-src="https://github-readme-stats-merw5yblq-nigel1992s-projects.vercel.app/api/top-langs/?username=Nigel1992&layout=compact&theme=github_dark&hide_border=true"
+src="https://github-readme-stats-nigel1992s-projects.vercel.app/api/top-langs/?username=Nigel1992&layout=compact&theme=github_dark&hide_border=true"
 alt="Nigel's Top Languages"
 />
 
-<br><br>
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
 
 <img
 src="https://streak-stats.demolab.com/?user=Nigel1992&theme=github-dark-blue&hide_border=true"
@@ -627,6 +673,44 @@ alt="Nigel's GitHub Contribution Activity"
 
 ---
 
+# 🏗️ How I Like To Work
+
+```text id="ofz52p"
+IDEA
+ │
+ ▼
+RESEARCH
+ │
+ ▼
+PROTOTYPE
+ │
+ ▼
+BREAK SOMETHING
+ │
+ ▼
+DEBUG
+ │
+ ▼
+UNDERSTAND THE PROBLEM
+ │
+ ▼
+FIX IT
+ │
+ ▼
+TEST IT
+ │
+ ▼
+AUTOMATE IT
+ │
+ ▼
+DOCUMENT IT
+ │
+ ▼
+GITHUB 🚀
+```
+
+---
+
 # 🤝 Open Source
 
 A lot of my projects start because:
@@ -636,6 +720,8 @@ A lot of my projects start because:
 > **Or the existing solution doesn't quite do what I want.**
 
 So I try building it.
+
+I also enjoy sharing fixes and experiments because the weird technical problem I spent hours solving today might save someone else those same hours tomorrow.
 
 <div align="center">
 
@@ -651,7 +737,7 @@ So I try building it.
 
 <div align="center">
 
-```text id="xj1a0j"
+```text id="pm35t7"
         BUILD
           ↓
         BREAK
@@ -689,6 +775,10 @@ So I try building it.
 
 <br><br>
 
-> ### `BUILD • BREAK • UNDERSTAND • FIX • IMPROVE • SHARE`
+**If one of my projects helped you, consider leaving it a ⭐**
+
+<br>
+
+> ### `BUILD • BREAK • UNDERSTAND • FIX • IMPROVE • AUTOMATE • SHARE`
 
 </div>
