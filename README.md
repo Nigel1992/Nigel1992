@@ -1,10 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Nigel&fontSize=70&fontAlignY=35&desc=Developer%20%E2%80%A2%20Tinkerer%20%E2%80%A2%20Problem%20Solver&descAlignY=58&animation=fadeIn"/>
+# 👋 Hey, I'm Nigel
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&center=true&vCenter=true&width=750&lines=Building+things+because+I+can+%F0%9F%9A%80;Kodi+%E2%80%A2+Python+%E2%80%A2+Linux+%E2%80%A2+Android;Waydroid+%E2%80%A2+ESP32+%E2%80%A2+Raspberry+Pi;Automation+%E2%80%A2+IPTV+%E2%80%A2+Networking;Break+it+%E2%86%92+Understand+it+%E2%86%92+Fix+it+%F0%9F%94%A7" />
+## 💻 Windows → 🐧 Linux
 
-<br><br>
+### 📺 Kodi • 🐍 Python • 🤖 Android / Waydroid • 🔌 ESP32 • 🥧 Raspberry Pi
+
+**Developer • Tinkerer • Problem Solver • Open Source**
+
+🇳🇱 Netherlands
+
+<br>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge\&logo=windows\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
@@ -15,9 +21,7 @@
 
 <br>
 
-### 🇳🇱 Netherlands
-
-**Hobby developer • Technology enthusiast • Open-source tinkerer**
+> ### `BUILD → BREAK → UNDERSTAND → FIX → IMPROVE → AUTOMATE → SHARE`
 
 </div>
 
@@ -25,7 +29,7 @@
 
 # ⚡ About Me
 
-```python
+```python id="ip2t07"
 nigel = {
     "username": "Nigel1992",
     "location": "Netherlands 🇳🇱",
@@ -49,9 +53,9 @@ nigel = {
 
 I've been working with computers and **Windows for many years**.
 
-A few years ago I started exploring Linux more seriously. Around two years ago I made the jump and switched to **Linux as my main operating system**.
+A few years ago I started exploring Linux more seriously. Around two years ago I made the switch and Linux became my **main everyday operating system**.
 
-Today, most of my projects revolve around **Kodi, Python, Linux, Android/Waydroid, ESP32, Raspberry Pi, IPTV, networking and automation**.
+Today, most of my projects and experiments revolve around **Kodi, Python, Linux, Android/Waydroid, ESP32, Raspberry Pi, IPTV, networking and automation**.
 
 I love solving the kind of problems that make you think:
 
@@ -65,11 +69,10 @@ Usually, there is. 😎
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 📺 Kodi & Streaming
-
-Building and experimenting with:
 
 * Kodi video add-ons
 * IPTV integrations
@@ -83,17 +86,16 @@ Building and experimenting with:
 * LibreELEC
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🐧 Linux & Automation
-
-Experimenting with:
 
 * Linux desktop systems
 * Bash scripting
 * System automation
 * Hardware compatibility
-* Backup / restore
+* Backup & restore
 * Docker
 * Networking
 * Bluetooth
@@ -101,14 +103,14 @@ Experimenting with:
 * Performance tuning
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🤖 Android & Waydroid
-
-Digging into:
 
 * ADB
 * Logcat
@@ -122,11 +124,10 @@ Digging into:
 * App debugging
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🔌 Hardware & Embedded
-
-Playing with:
 
 * ESP32
 * ESP32 CYD
@@ -140,6 +141,7 @@ Playing with:
 * Embedded firmware
 
 </td>
+
 </tr>
 </table>
 
@@ -149,7 +151,7 @@ Playing with:
 
 <div align="center">
 
-### 💻 Operating Systems
+## 🖥️ Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge\&logo=windows\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
@@ -170,30 +172,30 @@ Playing with:
 
 **Python • Bash / Shell • JavaScript • HTML • XML**
 
-### 🔧 Development
+### 🔧 Development & Debugging
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![ADB](https://img.shields.io/badge/ADB-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
 
-**Git • GitHub • VS Code • SQLite • Docker • ADB • Logcat • V4L2**
+**Git • GitHub • VS Code • SQLite • Docker • ADB • Logcat • Android Shell • V4L2**
 
-### 📺 Media
+### 📺 Media & Streaming
 
 ![Kodi](https://img.shields.io/badge/Kodi-17B2E7?style=for-the-badge\&logo=kodi\&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge\&logo=raspberrypi\&logoColor=white)
 
 **Kodi • LibreELEC • IPTV • IPTV Manager • IPTV Simple • NextPVR • Xtream Codes • EPG • InputStream**
 
-### 🔌 Embedded
+### 🔌 Embedded & Hardware
 
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge\&logo=raspberrypi\&logoColor=white)
-![Arduino](https://img.shields.io/badge/Embedded-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
 
-**ESP32 • CYD • ILI9341 • GPS • ATGM336H • CH340 • Raspberry Pi**
+**ESP32 • ESP32 CYD • ILI9341 • GPS • ATGM336H • CH340 • Raspberry Pi**
 
 ### 🌐 Networking
 
@@ -208,50 +210,59 @@ Playing with:
 # 🌟 Featured Projects
 
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
 ## 📺 NLZiet Kodi Add-on
 
 Unofficial Kodi video add-on for the Dutch streaming service **NLZiet**.
 
-**Highlights**
+### Highlights
 
 📺 Live TV
 📅 EPG / Now & Next
-🔐 OAuth2
-📡 IPTV Manager
+🔐 OAuth2 authentication
+📡 IPTV Manager integration
 💾 Caching
 🖼️ Artwork / Fanart
-🐧 LibreELEC support
+🐧 LibreELEC compatibility
 
 <br>
 
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge\&logo=github)](https://github.com/Nigel1992/NLZiet-Kodi-Addon)
+<a href="https://github.com/Nigel1992/NLZiet-Kodi-Addon">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
+
 <td width="50%" valign="top">
 
 ## 🎬 Videoland Kodi Add-on
 
-Unofficial Kodi video add-on for **Videoland**.
+Unofficial Kodi video add-on for the Dutch streaming service **Videoland**.
 
-**Highlights**
+### Highlights
 
 🎬 Movies
 📺 Series
-📑 Episodes
+📑 Episode navigation
 👤 Profiles
 ❤️ Watchlist
-🏠 Home rails
+🏠 Home sections
 ▶️ Kodi-native playback
 
 <br>
 
-[![Repository](https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge\&logo=github)](https://github.com/Nigel1992/Videoland-Kodi-Addon)
+<a href="https://github.com/Nigel1992/Videoland-Kodi-Addon">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
 
 </td>
+
 </tr>
+
 </table>
 
 ---
@@ -260,23 +271,22 @@ Unofficial Kodi video add-on for **Videoland**.
 
 Kodi is one of my biggest development interests.
 
-My projects have involved:
-
-```text
-Kodi Python Add-ons
-        │
-        ├── Video Add-ons
-        ├── Streaming APIs
-        ├── OAuth2 Authentication
-        ├── IPTV Manager
-        ├── IPTV Simple
-        ├── EPG
-        ├── PVR
-        ├── InputStream
-        ├── Caching
-        ├── Dependency Management
-        ├── Kodi Repositories
-        └── LibreELEC Compatibility
+```text id="7i8g3w"
+Kodi
+ │
+ ├── Python Add-ons
+ ├── Video Add-ons
+ ├── Streaming APIs
+ ├── OAuth2 Authentication
+ ├── IPTV Manager
+ ├── IPTV Simple
+ ├── EPG
+ ├── PVR
+ ├── InputStream
+ ├── Caching
+ ├── Dependency Management
+ ├── Kodi Repositories
+ └── LibreELEC Compatibility
 ```
 
 I especially enjoy taking streaming services and integrating them into a **native Kodi experience**.
@@ -287,67 +297,52 @@ I especially enjoy taking streaming services and integrating them into a **nativ
 
 My media experiments go beyond individual Kodi add-ons.
 
-I've worked with:
+I've worked and experimented with:
 
-`IPTV Simple` • `IPTV Manager` • `Xtream Codes` • `EPG` • `Catch-up TV` • `Timeshift` • `NextPVR` • `Kodi PVR` • `InputStream` • `LibreELEC`
+**IPTV Simple • IPTV Manager • Xtream Codes • EPG • Catch-up TV • Timeshift • NextPVR • Kodi PVR • InputStream • LibreELEC**
 
 My Raspberry Pi 5 also serves as a platform for experimenting with:
 
-* 📺 Kodi
-* 📡 IPTV
-* 🔊 Bluetooth audio
-* 🎮 Bluetooth controls
-* ⏯️ AVRCP
-* ⌨️ Kodi keymaps
-* 🔄 Automatic Bluetooth connections
-* 🖥️ HDMI configuration
-* ⚡ Performance tuning
+**📺 Kodi • 📡 IPTV • 🔊 Bluetooth Audio • ⏯️ AVRCP • ⌨️ Kodi Keymaps • 🔄 Auto-connect • 🖥️ HDMI • ⚡ Performance Tuning**
 
 ---
 
 # 🪟 ➜ 🐧 My OS Journey
 
-```text
-          WINDOWS
-             │
-             │  Main OS for many years
-             │
-             ▼
+```text id="k0bcxq"
+          WINDOWS 🪟
+              │
+              │
+      Main OS for many years
+              │
+              ▼
       Started exploring Linux
-             │
-             │
-             ▼
+              │
+              ▼
        Learned by tinkering
-             │
-             │
-             ▼
-     Switched primary OS
-        ~2 years ago
-             │
-             ▼
-           LINUX
-        Main OS today 🐧
+              │
+              ▼
+       Switched primary OS
+         ~2 years ago
+              │
+              ▼
+           LINUX 🐧
+        Main OS today
 ```
 
 ## 🪟 Windows
 
 Windows was my main operating system for **many years**.
 
-That gave me a lot of hands-on experience with:
+That gave me hands-on experience with:
 
-`Windows 11` • `Drivers` • `Networking` • `Hardware` • `Troubleshooting` • `Performance Tuning` • `System Tweaking` • `PowerShell` • `CMD`
+**Windows 11 • Hardware • Drivers • Networking • Software Troubleshooting • Performance Optimization • System Tweaking • PowerShell • CMD • PC Maintenance**
 
 Windows is still an important part of my technical experience even though it isn't my primary desktop anymore.
 
 ## 🐧 Linux
 
-I only started using Linux seriously a **few years ago**.
-
-Around two years ago, I switched and made Linux my primary operating system.
-
-Since then I've been learning it through everyday use and plenty of:
-
-> **Breaking things → figuring out why → fixing them.**
+I started using Linux seriously a **few years ago**, and around two years ago I switched to Linux as my primary operating system.
 
 I've used and experimented with:
 
@@ -355,7 +350,9 @@ I've used and experimented with:
 
 And worked with:
 
-`Bash` • `APT` • `Flatpak` • `Snap` • `Docker` • `X11` • `Xorg` • `Mesa` • `V4L2` • `Bluetooth` • `USB` • `Networking`
+**Bash • APT • Flatpak • Snap • Docker • X11 • Xorg • Mesa • V4L2 • Bluetooth • USB • Networking**
+
+> **Break something → figure out why → fix it → learn from it.**
 
 ---
 
@@ -363,30 +360,28 @@ And worked with:
 
 One of my favorite rabbit holes is getting Android applications to behave properly inside Linux.
 
-My Waydroid experiments include:
-
-```text
+```text id="wxw01b"
 Waydroid
-│
-├── ADB
-├── Android Shell
-├── Google Services
-├── Google Accounts
-├── Account Visibility
-├── SQLite Databases
-├── Package Management
-├── App Permissions
-├── Camera / V4L2
-├── Multitouch
-├── Logcat
-├── dumpsys
-├── Backup / Restore
-└── App Compatibility Debugging
+ │
+ ├── ADB
+ ├── Android Shell
+ ├── Google Services
+ ├── Google Accounts
+ ├── Account Visibility
+ ├── SQLite Databases
+ ├── Package Management
+ ├── App Permissions
+ ├── Camera / V4L2
+ ├── Multitouch
+ ├── Logcat
+ ├── dumpsys
+ ├── Backup / Restore
+ └── App Compatibility Debugging
 ```
 
-Some of my favorite tools:
+Some of my most-used Android debugging tools:
 
-```bash
+```bash id="nvvsmr"
 adb
 logcat
 dumpsys
@@ -396,7 +391,7 @@ getprop
 sqlite3
 ```
 
-If an Android app works on a phone but breaks inside Waydroid, I don't just want to know **that** it broke.
+If an Android app works perfectly on a phone but breaks inside Waydroid, I don't just want to know **that** it broke.
 
 I want to know **why**.
 
@@ -404,63 +399,45 @@ I want to know **why**.
 
 # 🔌 ESP32 Hardware Lab
 
-I've experimented with the:
+I've experimented extensively with the **ESP32-2432S028R — Cheap Yellow Display / CYD**.
 
-### ESP32-2432S028R — *Cheap Yellow Display / CYD*
+That includes:
 
-Including:
-
-* 🔌 ESP32
-* 🖥️ ILI9341 display
-* 👆 Resistive touchscreen
-* 🛰️ ATGM336H GPS
-* 📡 External GPS antennas
-* 🔗 CH340 USB serial
-* 💾 Flash partitions
-* 📶 ESP32 Marauder
-* 🦇 Bruce firmware
-* 🗺️ Wardriving
-* 🔄 Multiboot firmware
+**🔌 ESP32 • 🖥️ ILI9341 • 👆 Resistive Touch • 🛰️ ATGM336H GPS • 📡 GPS Antennas • 🔗 CH340 • 💾 Flash Partitions • 📶 ESP32 Marauder • 🦇 Bruce • 🗺️ Wardriving • 🔄 Multiboot**
 
 Embedded projects are especially fun because debugging suddenly involves **both software and physical hardware**.
 
 ---
 
-# 🥧 Raspberry Pi 5
+# 🥧 Raspberry Pi 5 + LibreELEC
 
-My Raspberry Pi experiments mainly revolve around **LibreELEC and Kodi**.
-
-```text
+```text id="rqy5d3"
 Raspberry Pi 5
-     │
-     ├── LibreELEC
-     ├── Kodi
-     ├── IPTV
-     ├── Bluetooth Audio
-     ├── AVRCP
-     ├── Kodi Keymaps
-     ├── Auto-connect Scripts
-     ├── HDMI Configuration
-     └── Performance Tuning
+      │
+      ├── LibreELEC
+      ├── Kodi
+      ├── IPTV
+      ├── Bluetooth Audio
+      ├── AVRCP
+      ├── Kodi Keymaps
+      ├── Auto-connect Scripts
+      ├── HDMI Configuration
+      └── Performance Tuning
 ```
 
 ---
 
-# 🌐 Browser Hacking / Userscripts
+# 🌐 Browser Userscripts
 
-I also like changing websites when they don't quite work the way I want them to.
+Sometimes a website doesn't quite work the way I want it to.
 
-## 🛍️ Vinted Country & City Filter
+So I change it. 😎
 
-A client-side userscript adding extra filtering functionality to **Vinted**.
+One of my projects is a **Vinted Country & City Filter**, adding additional client-side filtering functionality.
 
-Areas involved:
+I've worked with:
 
-`JavaScript` • `DOM Manipulation` • `Client-side Filtering` • `Userscripts` • `UI Tweaks` • `Dark Mode`
-
-Sometimes the easiest way to get a feature added to a website is...
-
-> **...add it yourself. 😎**
+**JavaScript • DOM Manipulation • Client-side Filtering • Userscripts • UI Tweaks • Dark Mode**
 
 ---
 
@@ -468,102 +445,107 @@ Sometimes the easiest way to get a feature added to a website is...
 
 If I have to do something repeatedly, sooner or later I'm probably going to script it.
 
-Things I've automated or experimented with include:
-
-```text
-⚙️ Automation
-│
-├── Waydroid Backups
-├── Waydroid Restore
-├── Android Studio AVD Backups
-├── Android Studio AVD Restore
-├── Linux System Scripts
-├── Bluetooth Auto-connect
-├── Kodi Automation
-├── Application Data Backups
-├── External Drive Backups
-└── System Configuration
+```text id="7wmy66"
+Automation
+ │
+ ├── Waydroid Backups
+ ├── Waydroid Restore
+ ├── Android Studio AVD Backups
+ ├── Android Studio AVD Restore
+ ├── Linux System Scripts
+ ├── Bluetooth Auto-connect
+ ├── Kodi Automation
+ ├── Application Data Backups
+ ├── External Drive Backups
+ └── System Configuration
 ```
+
+> **Why do something manually ten times when you can spend an afternoon automating it? 😎**
+
+---
+
+# 🧩 Other Projects & Experiments
+
+### 📺 Media
+
+**Kodi Repositories • Streaming Add-ons • NLZiet • Videoland • NASA+ • Xtream/XC • IPTV Utilities • Stream Troubleshooting**
+
+### 🐧 Linux & Android
+
+**Waydroid Utilities • Android Studio • V4L2 • Webcam Integration • Multitouch • System Tweaks • Backup & Restore**
+
+### 🌐 Web
+
+**Vinted Userscripts • Client-side Filters • Dark Mode • UI Enhancements**
+
+### 📧 Apps & AI
+
+**Thunderbird Add-on Experiments • Ollama Integration • AI-assisted Automation • Development Utilities**
 
 ---
 
 # 🎮 Retro & Homebrew Lab
 
-Modern technology isn't the only thing I like breaking... I mean **experimenting with**. 😄
+I've also worked with:
 
-I've worked with:
+**🎮 PSP-3000 • 🔓 ARK Custom Firmware • 🏠 Homebrew • 💿 PS1 → PSP Conversion • 🎮 POPS • 💾 microSD Adapters • 📁 FAT32 • 💽 Large SD Cards**
 
-🎮 **PSP-3000**
-🔓 **ARK Custom Firmware**
-🏠 **PSP Homebrew**
-💿 **PS1 → PSP Conversion**
-🎮 **POPS**
-💾 **Memory Stick / microSD adapters**
-📁 **FAT32 filesystem configuration**
-💽 **Large SD card compatibility**
-
-Linux tools + old hardware = surprisingly fun combination.
+Linux tools + old hardware = a surprisingly fun combination.
 
 ---
 
 # 🌐 Networking
 
-Another rabbit hole I regularly disappear into.
-
-```text
+```text id="vgz1fd"
 Networking
-│
-├── TCP/IP
-├── IPv4
-├── IPv6
-├── Wi-Fi
-├── OpenVPN
-├── VPNs
-├── Routers
-├── Port Configuration
-├── Wireless Adapters
-├── Wi-Fi Repeaters
-└── Troubleshooting
+ │
+ ├── TCP/IP
+ ├── IPv4
+ ├── IPv6
+ ├── Wi-Fi
+ ├── OpenVPN
+ ├── VPNs
+ ├── Routers
+ ├── Port Configuration
+ ├── Wireless Adapters
+ ├── Wi-Fi Repeaters
+ └── Troubleshooting
 ```
 
-The best networking problems are the ones where:
+The most interesting networking problems are usually the ones where:
 
-> *"Everything looks correct... but it still doesn't work."*
-
-Those are usually the interesting ones.
+> **"Everything looks correct... but it still doesn't work."**
 
 ---
 
 # 🛠️ Troubleshooting Mode
 
-My normal response when technology doesn't work:
-
-```text
+```text id="t4xjei"
         SOMETHING BREAKS
                │
                ▼
-        "Well... why?"
+          "Well... why?"
                │
                ▼
-       Check the obvious
+        Check the obvious
                │
                ▼
-     Obvious stuff is fine
+      Obvious stuff is fine
                │
                ▼
-      Go down rabbit hole
+       Go down rabbit hole
                │
                ▼
-       Find weird cause
+        Find weird cause
                │
                ▼
             FIX IT
                │
                ▼
-         AUTOMATE IT
+          AUTOMATE IT
                │
                ▼
-       Put it on GitHub
+        Put it on GitHub
 ```
 
 Hardware I've worked and experimented with includes:
@@ -578,19 +560,17 @@ AI is an important part of my development workflow.
 
 I use it for:
 
-`Rapid Prototyping` • `Debugging` • `Code Analysis` • `Research` • `Documentation` • `API Exploration` • `Refactoring` • `Edge Cases` • `Learning` • `Automation`
+**Rapid Prototyping • Debugging • Code Analysis • Research • Documentation • API Exploration • Refactoring • Edge Cases • Learning • Automation**
 
-AI makes it possible for me to explore ideas and build prototypes much faster.
+It allows me to explore ideas, investigate unfamiliar systems and prototype solutions much faster.
 
 But the rule stays the same:
 
-> ### **Test it. Understand it. Make sure it actually works.**
+> ## **Test it. Understand it. Make sure it actually works.**
 
 ---
 
 # 🧪 Current Playground
-
-<div align="center">
 
 |    | Currently exploring                       |
 | -- | ----------------------------------------- |
@@ -604,25 +584,30 @@ But the rule stays the same:
 | 🌐 | Networking                                |
 | 🤖 | AI-assisted development                   |
 
-</div>
-
 ---
 
-# 🏆 GitHub
+# 🏆 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nigel1992&theme=darkhub&no-frame=true&no-bg=true&margin-w=5&row=1" />
+<img
+height="180"
+src="https://github-readme-stats-merw5yblq-nigel1992s-projects.vercel.app/api?username=Nigel1992&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+alt="Nigel's GitHub Stats"
+/>
+
+<img
+height="180"
+src="https://github-readme-stats-merw5yblq-nigel1992s-projects.vercel.app/api/top-langs/?username=Nigel1992&layout=compact&theme=github_dark&hide_border=true"
+alt="Nigel's Top Languages"
+/>
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nigel1992&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nigel1992&layout=compact&theme=github_dark&hide_border=true"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Nigel1992&theme=github-dark-blue&hide_border=true"/>
+<img
+src="https://streak-stats.demolab.com/?user=Nigel1992&theme=github-dark-blue&hide_border=true"
+alt="Nigel's GitHub Streak"
+/>
 
 </div>
 
@@ -632,7 +617,11 @@ But the rule stays the same:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nigel1992&theme=github-compact&hide_border=true&area=true" width="100%"/>
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Nigel1992&theme=github-compact&hide_border=true"
+width="100%"
+alt="Nigel's GitHub Contribution Activity"
+/>
 
 </div>
 
@@ -642,17 +631,15 @@ But the rule stays the same:
 
 A lot of my projects start because:
 
-> *I need something.*
-> *It doesn't exist.*
-> *Or the existing solution doesn't quite do what I want.*
+> **I need something.**
+> **It doesn't exist.**
+> **Or the existing solution doesn't quite do what I want.**
 
 So I try building it.
 
-If one of my projects helps you:
-
 <div align="center">
 
-### ⭐ Star it • 🐛 Break it • 💡 Improve it • 🔧 Contribute
+## ⭐ STAR IT • 🐛 BREAK IT • 💡 IMPROVE IT • 🔧 CONTRIBUTE
 
 **Issues, suggestions and pull requests are welcome.**
 
@@ -664,25 +651,25 @@ If one of my projects helps you:
 
 <div align="center">
 
-```text
-BUILD
-  ↓
-BREAK
-  ↓
-UNDERSTAND
-  ↓
-FIX
-  ↓
-IMPROVE
-  ↓
-AUTOMATE
-  ↓
-SHARE
-  ↓
-REPEAT
+```text id="xj1a0j"
+        BUILD
+          ↓
+        BREAK
+          ↓
+      UNDERSTAND
+          ↓
+         FIX
+          ↓
+       IMPROVE
+          ↓
+      AUTOMATE
+          ↓
+        SHARE
+          ↓
+        REPEAT
 ```
 
-### 💡 Curiosity > "It can't be done."
+## 💡 Curiosity > "It can't be done."
 
 </div>
 
@@ -690,7 +677,11 @@ REPEAT
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+%F0%9F%91%8B;Now+go+build+something+cool+%F0%9F%9A%80" />
+# 👋 Thanks for visiting!
+
+### 💻 Windows → 🐧 Linux
+
+### 📺 Kodi • 🐍 Python • 🤖 Android • 🔌 ESP32 • 🥧 Raspberry Pi
 
 <br>
 
@@ -698,14 +689,6 @@ REPEAT
 
 <br><br>
 
-### 💻 Windows → 🐧 Linux
-
-### 📺 Kodi • 🐍 Python • 🤖 Android • 🔌 ESP32 • 🥧 Raspberry Pi
-
-**BUILD • BREAK • UNDERSTAND • FIX • IMPROVE • SHARE**
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+> ### `BUILD • BREAK • UNDERSTAND • FIX • IMPROVE • SHARE`
 
 </div>
