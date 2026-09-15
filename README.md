@@ -1,14 +1,21 @@
 <div align="center">
 
-# 👋 Hey, I'm Nigel
+<img width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Nigel1992&fontAlign=50&fontAlignY=38&desc=Developer%20%E2%80%A2%20Tinkerer%20%E2%80%A2%20Problem%20Solver&descAlign=50&descAlignY=58&animation=fadeIn&theme=tokyonight"
+  alt="Nigel1992 Header"/>
 
-## 💻 Windows → 🐧 Linux
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=850&lines=%F0%9F%90%A7+Linux+%7C+%F0%9F%93%BA+Kodi+%7C+%F0%9F%90%8D+Python;%F0%9F%A4%96+Android+%2F+Waydroid+%7C+%F0%9F%94%8C+ESP32+%7C+%F0%9F%A5%A7+Raspberry+Pi;%E2%9A%99%EF%B8%8F+Build+%E2%86%92+Break+%E2%86%92+Understand+%E2%86%92+Fix+%E2%86%92+Improve;%F0%9F%9A%80+Open+Source+Tinkerer+from+the+Netherlands"
+  alt="Typing Animation"/>
+
+<br><br>
+
+### 💻 Windows → 🐧 Linux
 
 ### 📺 Kodi • 🐍 Python • 🤖 Android / Waydroid • 🔌 ESP32 • 🥧 Raspberry Pi
 
 **Developer • Tinkerer • Problem Solver • Open Source**
 
-🇳🇱 Netherlands
+🇳🇱 **Netherlands**
 
 <br>
 
@@ -19,7 +26,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge\&logo=android\&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge\&logo=espressif\&logoColor=white)
 
-<br>
+<br><br>
 
 > ### `BUILD → BREAK → UNDERSTAND → FIX → IMPROVE → AUTOMATE → SHARE`
 
@@ -29,7 +36,7 @@
 
 # ⚡ About Me
 
-```python id="t1j7q0"
+```python id="j84aow"
 nigel = {
     "username": "Nigel1992",
     "location": "Netherlands 🇳🇱",
@@ -274,7 +281,7 @@ Unofficial Kodi video add-on for the Dutch streaming service **Videoland**.
 
 Kodi is one of my biggest development interests.
 
-```text id="lj0lvm"
+```text id="f2pq0q"
 Kodi
  │
  ├── Python Add-ons
@@ -312,7 +319,7 @@ My Raspberry Pi 5 also serves as a platform for experimenting with:
 
 # 🪟 ➜ 🐧 My OS Journey
 
-```text id="l16mhy"
+```text id="rw1i3d"
           WINDOWS 🪟
               │
               │
@@ -363,7 +370,7 @@ And worked with:
 
 One of my favorite rabbit holes is getting Android applications to behave properly inside Linux.
 
-```text id="hpkijw"
+```text id="7sv72a"
 Waydroid
  │
  ├── ADB
@@ -384,7 +391,7 @@ Waydroid
 
 Some of my most-used Android debugging tools:
 
-```bash id="qek90s"
+```bash id="06x5cn"
 adb
 logcat
 dumpsys
@@ -406,7 +413,7 @@ I want to know **why**.
 
 I've experimented extensively with the **ESP32-2432S028R — Cheap Yellow Display / CYD**.
 
-```text id="m3a17w"
+```text id="ohj19a"
 ESP32 CYD
  │
  ├── ESP32
@@ -431,7 +438,7 @@ Embedded projects are especially fun because debugging suddenly involves **both 
 
 My Raspberry Pi 5 is another platform where software and hardware experimentation come together.
 
-```text id="0h5c1q"
+```text id="5lvxej"
 Raspberry Pi 5
       │
       ├── LibreELEC
@@ -467,7 +474,7 @@ I've also experimented with dark-mode and interface modifications.
 
 If I have to do something repeatedly, sooner or later I'm probably going to script it.
 
-```text id="5bkd3v"
+```text id="kqf1ns"
 Automation
  │
  ├── Waydroid Backups
@@ -490,7 +497,7 @@ Automation
 
 I've also experimented with Docker for running and testing services without having to install everything directly onto the host system.
 
-```text id="n2c7n2"
+```text id="94hnbj"
 Docker
  │
  ├── Containers
@@ -537,7 +544,7 @@ Linux tools + old hardware = a surprisingly fun combination.
 
 Networking is another area I frequently experiment with and troubleshoot.
 
-```text id="p83m9i"
+```text id="jcs3zj"
 Networking
  │
  ├── TCP/IP
@@ -563,7 +570,7 @@ The most interesting networking problems are usually the ones where:
 
 A large part of how I learn technology comes from troubleshooting.
 
-```text id="dnl1nv"
+```text id="41ayfo"
         SOMETHING BREAKS
                │
                ▼
@@ -678,7 +685,7 @@ alt="Nigel's GitHub Contribution Activity"
 
 # 🏗️ How I Like To Work
 
-```text id="w3x10v"
+```text id="itd0dc"
 IDEA
  │
  ▼
@@ -740,7 +747,7 @@ I also enjoy sharing fixes and experiments because the weird technical problem I
 
 <div align="center">
 
-```text id="lj9qhe"
+```text id="0bs9n5"
         BUILD
           ↓
         BREAK
@@ -766,7 +773,12 @@ I also enjoy sharing fixes and experiments because the weird technical problem I
 
 <div align="center">
 
-# 👋 Thanks for visiting!
+## 👋 Thanks for visiting!
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&center=true&vCenter=true&width=750&lines=Thanks+for+checking+out+my+GitHub!;Keep+building.+Keep+breaking.+Keep+learning.;If+something+I+built+helped+you%2C+leave+a+%E2%AD%90;See+you+around+%F0%9F%91%8B"
+  alt="Footer Typing Animation"/>
+
+<br><br>
 
 ### 💻 Windows → 🐧 Linux
 
@@ -778,10 +790,16 @@ I also enjoy sharing fixes and experiments because the weird technical problem I
 
 <br><br>
 
-**If one of my projects helped you, consider leaving it a ⭐**
+**⭐ If one of my projects helped you, consider starring it! ⭐**
+
+<br><br>
+
+> ### `BUILD • BREAK • UNDERSTAND • FIX • IMPROVE • AUTOMATE • SHARE`
 
 <br>
 
-> ### `BUILD • BREAK • UNDERSTAND • FIX • IMPROVE • AUTOMATE • SHARE`
+<img width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&theme=tokyonight&animation=fadeIn"
+  alt="Nigel1992 Footer"/>
 
 </div>
