@@ -14,6 +14,8 @@
 
 ### 💻 Windows → 🐧 Linux
 
+[![Vibe Coded](https://img.shields.io/badge/Vibe_Coded-✨-8A2BE2?style=for-the-badge)](https://github.com)
+
 ### 📺 Kodi • 🐍 Python • 🤖 Android / Waydroid • 🔌 ESP32 • 🥧 Raspberry Pi
 
 **Developer • Tinkerer • Problem Solver • Open Source**
